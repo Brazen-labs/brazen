@@ -1,0 +1,38 @@
+## Description
+
+Briefly describe the change, its motivation, and the problem it solves.
+
+Closes # (issue number if applicable)
+
+## Type of Change
+
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Smart Contract update (Soroban SDK / contracts)
+- [ ] Documentation update
+- [ ] Performance improvement / Refactoring
+
+## Changes Made
+
+- Itemized list of changes made in this PR
+
+## Testing & Verification
+
+- [ ] Unit tests added / updated
+- [ ] `cargo test` passes in `contracts/`
+- [ ] Linting & formatting checks passed (`cargo fmt`, `cargo clippy`, `npm run lint`)
+- [ ] Manual test / simulator test executed (attach outputs below if relevant)
+
+### Verification Output:
+```text
+(paste relevant test output or transaction hash here)
+```
+
+## Checklist
+
+- [ ] My code follows the style guidelines of this project
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have made corresponding changes to the documentation
+- [ ] My changes generate no new warnings or compiler errors

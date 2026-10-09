@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Brazen Protocol Documentation
+    url: https://github.com/Brazen-labs/brazen/tree/main/docs
+    about: Read the official architecture and integration documentation.
+  - name: Security Vulnerabilities
+    url: https://github.com/Brazen-labs/brazen/security/advisories/new
+    about: Privately report potential security vulnerabilities to the maintainers.
