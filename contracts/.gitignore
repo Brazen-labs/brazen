@@ -5,3 +5,4 @@ lib/
 .slither-venv/
 .env
 .env.local
+target/
